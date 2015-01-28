@@ -28,7 +28,7 @@ function loadHeroImg(){
       });
     }).attr( 'src', $( '#hero-img img' ).attr( 'src' ) );
   }
-};
+}
 
 function initFormElements(){
 
@@ -67,7 +67,7 @@ function initFormElements(){
     }, 500 );
   }
 
-};
+}
 
 function initFormValidation(){
   if ( $( '.validate-form' ).length > 0 ) {
@@ -126,6 +126,41 @@ function initFormValidation(){
   }
 
 }
+
+function initBgImages(){
+  $('.bg-img, .bg-img-content').each(function() {
+    var jQimg = $(this);
+    var jSimg = new Image();
+    jSimg.onload = function() {
+      jQimg.data('native-width', jSimg.width);
+      jQimg.data('native-height', jSimg.height);
+      jQimg.css({ 'display': 'none', 'left': 0 });
+      resize_img(jQimg);
+      jQimg.fadeIn();
+    }
+    jSimg.src = jQimg.attr('src');
+  });
+
+}
+
+function resize_img( jQimg ) {
+  var jQpar = jQimg.parent();
+  if ( jQpar.is( 'body' ) ) {
+    jQpar = $( 'html' );
+  }
+  var par_w = jQpar.width();
+  var par_h = jQpar.height();
+  var img_w = jQimg.data('native-width');
+  var img_h = jQimg.data('native-height');
+  if ( ( par_w / par_h ) < ( img_w / img_h ) ) {
+    jQimg.css({height: '100%', width: 'auto' });
+    jQimg.css({'left': (par_w - jQimg.width()) / 2, 'top': 0 });
+  } else {
+    jQimg.css({width: '100%', height: 'auto'});
+    jQimg.css({'top': (par_h - jQimg.height()) / 2, 'left': 0 });
+  }
+}
+
 
 jQuery( document ).ready( function( $ ) {
 
@@ -538,44 +573,6 @@ jQuery( document ).ready( function( $ ) {
 
 	/* --------------------------------------------------------------------------------- */
 
-	/* -------------------------- */
-	/* 6) background image */
-	/* -------------------------- */
-
-	function resize_img( jQimg ) {
-		var jQpar = jQimg.parent();
-		if ( jQpar.is( 'body' ) ) {
-			jQpar = $( 'html' );
-		}
-		var par_w = jQpar.width();
-		var par_h = jQpar.height();
-		var img_w = jQimg.data('native-width');
-		var img_h = jQimg.data('native-height');
-		if ( ( par_w / par_h ) < ( img_w / img_h ) ) {
-			jQimg.css({height: '100%', width: 'auto' });
-			jQimg.css({'left': (par_w - jQimg.width()) / 2, 'top': 0 });
-		} else {
-			jQimg.css({width: '100%', height: 'auto'});
-			jQimg.css({'top': (par_h - jQimg.height()) / 2, 'left': 0 });
-		}
-	}
-
-	$('.bg-img, .bg-img-content').each(function() {
-		var jQimg = $(this);
-		var jSimg = new Image();
-		jSimg.onload = function() {
-			jQimg.data('native-width', jSimg.width);
-			jQimg.data('native-height', jSimg.height);
-			jQimg.css({ 'display': 'none', 'left': 0 });
-			resize_img(jQimg);
-			jQimg.fadeIn();
-		}
-		jSimg.src = jQimg.attr('src');
-	});
-
-	/* end 6) background image */
-
-	/* --------------------------------------------------------------------------------- */
 
 	/* -------------------------- */
 	/* 9) form submit */

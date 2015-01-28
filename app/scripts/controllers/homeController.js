@@ -14,5 +14,6 @@ angular.module('rentifylavillaprototypeApp')
     initFormElements();
     initDatePickers();
     initFormValidation();
+    initBgImages();
 
   });
