@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f491adfb-a2ad-4b43-a756-33962a24aa48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/bathroom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/bathroom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/chairs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/chairs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/couch-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/couch-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/couch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/couch.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/desk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/desk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/lamp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/lamp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/livingroom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/livingroom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/room.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/room.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/sink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/accommodation-details/thumbs/sink.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/galleryController.js" />
-      <change type="DELETED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\scripts\controllers\about.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\scripts\controllers\main.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/overview.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gallery.html" afterPath="$PROJECT_DIR$/app/views/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" afterPath="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rentify.lavilla.prototype.iws" />
@@ -52,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.153847" vertical-offset="3104" max-vertical-offset="3893">
-              <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3402985" vertical-offset="3019" max-vertical-offset="3910">
+              <caret line="191" column="56" selection-start-line="191" selection-start-column="56" selection-end-line="191" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -98,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <file leaf-file-name="overview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/overview.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4473684" vertical-offset="4947" max-vertical-offset="7055">
-              <caret line="309" column="30" selection-start-line="309" selection-start-column="30" selection-end-line="309" selection-end-column="30" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="119">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -160,8 +138,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="833">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="884">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -186,12 +164,13 @@
         <option value="$PROJECT_DIR$/app/scripts/lavilla/lavilla-datepick.js" />
         <option value="$PROJECT_DIR$/app/views/booking.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/homeController.js" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" />
         <option value="$PROJECT_DIR$/app/views/gallery.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/galleryController.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/views/overview.html" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -300,68 +279,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lavilla" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -624,14 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="833">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2623" max-vertical-offset="13141">
@@ -664,6 +573,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4473684" vertical-offset="4947" max-vertical-offset="7055">
+          <caret line="309" column="30" selection-start-line="309" selection-start-column="30" selection-end-line="309" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/galleryController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -672,18 +589,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/views/overview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.153847" vertical-offset="3104" max-vertical-offset="3893">
-          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4473684" vertical-offset="4947" max-vertical-offset="7055">
-          <caret line="309" column="30" selection-start-line="309" selection-start-column="30" selection-end-line="309" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="884">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3402985" vertical-offset="3019" max-vertical-offset="3910">
+          <caret line="191" column="56" selection-start-line="191" selection-start-column="56" selection-end-line="191" selection-end-column="56" />
           <folding />
         </state>
       </provider>
