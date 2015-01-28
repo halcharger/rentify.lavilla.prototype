@@ -825,7 +825,7 @@ hr {
 /* 3.2) hero image and transition image */
 
 #hero-img {
-	background: #000 url(../../images/loader-gif/loader-black.gif) no-repeat center center;
+	background: #000 url(../images/loader-gif/loader-black.gif) no-repeat center center;
 	position: relative;
 }
 
@@ -1640,7 +1640,7 @@ span.help-block.form-error {
 }
 
 .form-processing {
-	background: url(../../images/loader-gif/loader-white.gif) no-repeat center left;
+	background: url(../images/loader-gif/loader-white.gif) no-repeat center left;
 	display: none;
 	height: 32px;
 	line-height: 32px;

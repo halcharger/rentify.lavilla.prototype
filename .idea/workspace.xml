@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f491adfb-a2ad-4b43-a756-33962a24aa48" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/homeController.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/homeController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" afterPath="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" />
+      <change type="DELETED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\main.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\colours\blue-orange.css" afterPath="$PROJECT_DIR$/app/styles/colours.blue-orange.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\datepicker.css" afterPath="$PROJECT_DIR$/app/styles/datepicker.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\mobile.css" afterPath="$PROJECT_DIR$/app/styles/mobile.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\owl.carousel.css" afterPath="$PROJECT_DIR$/app/styles/owl.carousel.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\owl.theme.css" afterPath="$PROJECT_DIR$/app/styles/owl.theme.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\owl.transitions.css" afterPath="$PROJECT_DIR$/app/styles/owl.transitions.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\reset.css" afterPath="$PROJECT_DIR$/app/styles/reset.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\responsive-grid\big-desktop.css" afterPath="$PROJECT_DIR$/app/styles/responsive-grid.big-desktop.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\responsive-grid\default.css" afterPath="$PROJECT_DIR$/app/styles/responsive-grid.default.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\responsive-grid\mobile.css" afterPath="$PROJECT_DIR$/app/styles/responsive-grid.mobile.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\responsive-grid\small-desktop.css" afterPath="$PROJECT_DIR$/app/styles/responsive-grid.small-desktop.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\responsive-grid\tablet.css" afterPath="$PROJECT_DIR$/app/styles/responsive-grid.tablet.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\styles.css" afterPath="$PROJECT_DIR$/app/styles/styles.css" />
+      <change type="MOVED" beforePath="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla\tablet.css" afterPath="$PROJECT_DIR$/app/styles/tablet.css" />
     </list>
     <ignored path="rentify.lavilla.prototype.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +46,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.76923" vertical-offset="3040" max-vertical-offset="3740">
-              <caret line="206" column="41" selection-start-line="206" selection-start-column="41" selection-end-line="206" selection-end-column="41" />
+            <state vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="3842">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.627193" vertical-offset="6303" max-vertical-offset="7038">
+              <caret line="396" column="13" selection-start-line="396" selection-start-column="13" selection-end-line="396" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -41,25 +66,9 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.23077" vertical-offset="1982" max-vertical-offset="2652">
-              <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2652">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lavilla-functions.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85087717" vertical-offset="12049" max-vertical-offset="12733">
-              <caret line="855" column="0" selection-start-line="855" selection-start-column="0" selection-end-line="855" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="n#!!block;n#loadHeroImg#0" expanded="false" />
-                <element signature="n#!!block;n#initFormElements#0" expanded="false" />
-                <element signature="n#!!block;n#initFormValidation#0" expanded="false" />
-                <element signature="e#16738#17152#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +120,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blue-orange.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/lavilla/colours/blue-orange.css">
+      <file leaf-file-name="colours.blue-orange.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/colours.blue-orange.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8228">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -121,8 +130,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/lavilla/responsive-grid/mobile.css">
+      <file leaf-file-name="responsive-grid.mobile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/responsive-grid.mobile.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -148,12 +157,13 @@
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/styles/lavilla/styles.css" />
         <option value="$PROJECT_DIR$/app/views/home.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/lavilla/lavilla-datepick.js" />
         <option value="$PROJECT_DIR$/app/views/booking.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/homeController.js" />
         <option value="$PROJECT_DIR$/app/scripts/lavilla/lavilla-functions.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
       </list>
     </option>
   </component>
@@ -243,47 +253,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rentify.lavilla.prototype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lavilla" />
+              <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,6 +276,10 @@
       <recent name="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\images\views" />
       <recent name="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\images\hero-images" />
       <recent name="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\scripts\lavilla" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles" />
+      <recent name="D:\Dev\AdaptiveSystems\rentify\rentify.lavilla.prototype\app\styles\lavilla" />
     </key>
   </component>
   <component name="RunManager">
@@ -363,7 +337,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -447,7 +421,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/lavilla/datepicker.css">
+    <entry file="file://$PROJECT_DIR$/app/styles/datepicker.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -455,7 +429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/lavilla/colours/blue-orange.css">
+    <entry file="file://$PROJECT_DIR$/app/styles/colours.blue-orange.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8228">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -463,7 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/lavilla/responsive-grid/mobile.css">
+    <entry file="file://$PROJECT_DIR$/app/styles/responsive-grid.mobile.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -495,7 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/lavilla/styles.css">
+    <entry file="file://$PROJECT_DIR$/app/styles/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40789473" vertical-offset="27686" max-vertical-offset="52462">
           <caret line="1645" column="20" selection-start-line="1645" selection-start-column="20" selection-end-line="1645" selection-end-column="20" />
@@ -507,14 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.76923" vertical-offset="3040" max-vertical-offset="3740">
-          <caret line="206" column="41" selection-start-line="206" selection-start-column="41" selection-end-line="206" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -544,14 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="816">
           <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.23077" vertical-offset="1982" max-vertical-offset="2652">
-          <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -593,6 +551,30 @@
             <element signature="n#!!block;n#initFormValidation#0" expanded="false" />
             <element signature="e#16738#17152#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2652">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="3842">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.627193" vertical-offset="6303" max-vertical-offset="7038">
+          <caret line="396" column="13" selection-start-line="396" selection-start-column="13" selection-end-line="396" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
