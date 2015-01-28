@@ -22,7 +22,8 @@ angular
         templateUrl: 'views/contactus.html'
       })
       .when('/gallery', {
-        templateUrl: 'views/gallery.html'
+        templateUrl: 'views/gallery.html',
+        controller:'galleryController'
       })
       .when('/onlinepayment', {
         templateUrl: 'views/onlinepayment.html'
