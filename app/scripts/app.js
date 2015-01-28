@@ -1,13 +1,5 @@
 'use strict';
 
-/**
- * @ngdoc overview
- * @name rentifylavillaprototypeApp
- * @description
- * # rentifylavillaprototypeApp
- *
- * Main module of the application.
- */
 angular
   .module('rentifylavillaprototypeApp', [
     'ngAnimate',
@@ -20,12 +12,29 @@ angular
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
+        templateUrl: 'views/home.html',
+        controller: 'homeController'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
+      .when('/availabilty', {
+        templateUrl: 'views/availabilty.html'
+      })
+      .when('/contactus', {
+        templateUrl: 'views/contactus.html'
+      })
+      .when('/gallery', {
+        templateUrl: 'views/gallery.html'
+      })
+      .when('/onlinepayment', {
+        templateUrl: 'views/onlinepayment.html'
+      })
+      .when('/rates', {
+        templateUrl: 'views/rates.html'
+      })
+      .when('/reviews', {
+        templateUrl: 'views/reviews.html'
+      })
+      .when('/booking', {
+        templateUrl: 'views/booking.html'
       })
       .otherwise({
         redirectTo: '/'
